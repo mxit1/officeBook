@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: debug
+  file:
+    path: /Users/yye/Documents/tienonProject/officeBook
+server:
+  port: 8080
+spring:
+  application:
+    name: springbook-logback-demo
+debug: false
